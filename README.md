@@ -4,7 +4,7 @@
 
 - Connect with me **koushik027d@gmail.com**
 
--  See my resume <a href="https://drive.google.com/uc?export=download&id=15JZF0aSiPXkxNDhAC26xwG-w4U10IFGf">Click Here</a>
+-  See my resume <a href="https://drive.google.com/uc?export=download&id=1QHNQhFJR3l6pP9I1KNZIL0qwcPl8VQJ8">Click Here</a>
 
 - See my Portfolio <a href="https://uiportfolios.framer.website/">Click Here</a>
 
